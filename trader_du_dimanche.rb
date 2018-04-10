@@ -22,3 +22,4 @@ puts "Meilleure marge : Achat le jour #{jourAchat+1} avec vente le jour #{jourVe
 end
 
 trader_du_dimanche
+

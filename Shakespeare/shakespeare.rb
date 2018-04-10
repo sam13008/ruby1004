@@ -51,3 +51,4 @@ def jean_michel_data(corpus, dictionary)
 end
 
 jean_michel_data(corpus, dictionary2)
+
